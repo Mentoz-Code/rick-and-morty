@@ -1,0 +1,101 @@
+@font-face{
+	font-family: getSCHWIFTY;
+	src: url(get_schwifty.ttf);
+	format: truetype;
+}
+
+
+
+body{
+	background-color: #001005;
+	}
+
+h1{
+	font-family: getSCHWIFTY;
+	color: #40b5cb;
+	text-align: center;
+	font-size: 69px;
+	font-weight: bold;
+	text-shadow: 2px 0 #c0df40, -2px 0 #c0df40, 0 2px #c0df40, 0 -2px #c0df40,
+             1px 1px #c0df40, -1px -1px #c0df40, 1px -1px #c0df40, -1px 1px #c0df40;
+}
+
+h2{
+	font-family: 'Creepster', cursive;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+             1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+}
+
+.r{
+	color: 	#b2daed;
+}
+
+.m{
+	color: #f0e14a;
+}
+
+p{
+	font-family: 'Orbitron', sans-serif;
+	font-size: 15px;
+	color: #71e742;
+}
+
+.pic{
+	color: #4f8024;
+}
+
+.big {
+	border: solid #71e742 6px;
+	width: 1024px;
+	height: 576px;
+	text-align: center;
+	margin: auto;
+
+}
+
+.pr{
+	text-align: right;
+}
+
+.piqmar{
+	margin-left: 408px;
+	margin-right: 400px;
+	word-spacing: 7px;
+	line-height: 37px;
+	text-align: left;
+}
+
+.ma{
+	text-align: right;
+}
+
+.map{
+	margin-right: 830px;
+	text-align: left;
+	word-spacing: 7px;
+	line-height: 44px;
+}
+
+.rap{
+	margin-left: 830px;
+	word-spacing: 8px;
+	line-height: 47px;
+	text-align: left;
+
+}
+
+
+a{
+	color: #40b5cb;
+}
+
+a:hover{
+	color: #c0df40;
+}
+
+.footer{
+	text-align: center;
+}
+
